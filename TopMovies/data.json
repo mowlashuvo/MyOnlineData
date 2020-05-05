@@ -1,0 +1,37 @@
+{
+    "versionCode": 1,
+    "cancellable": false,
+    "url": "http://tiny.cc/BuySellBD",
+    "data_version": 0,
+    "movies":[
+        {
+            "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "name": "",
+            "category": "",
+            "cast": "",
+            "rating": "",
+            "story_line": "",
+            "director": "",
+            "writers": "",
+            "length": "",
+            "year": "",
+            "tag_line": ""
+
+        },
+        {
+            "poster_url": "",
+            "name": "",
+            "category": "",
+            "cast": "",
+            "rating": "",
+            "story_line": "",
+            "director": "",
+            "writers": "",
+            "length": "",
+            "year": "",
+            "tag_line": ""
+
+        }
+    ]
+    
+}
