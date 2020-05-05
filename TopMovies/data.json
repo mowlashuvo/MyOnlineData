@@ -6,23 +6,25 @@
     "movies":[
         {
             "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-            "name": "",
-            "category": "",
-            "cast": "",
-            "rating": "",
-            "story_line": "",
-            "director": "",
-            "writers": "",
-            "length": "",
-            "year": "",
-            "tag_line": ""
+            "name": "The Shawshank Redemption",
+            "category": "Drama",
+            "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+            "stars": "Tim Robbins, Morgan Freeman, Bob Gunton",
+            "rating": "9.3",
+            "story_line": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+            "director": "Frank Darabont",
+            "writers": "Stephen King",
+            "length": "2h 22min",
+            "year": "14 October 1994",
+            "tag_line": "Fear can hold you prisoner. Hope can set you free"
 
         },
         {
             "poster_url": "",
             "name": "",
             "category": "",
-            "cast": "",
+            "trailer": "",
+            "stars": "",
             "rating": "",
             "story_line": "",
             "director": "",
