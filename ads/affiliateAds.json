@@ -366,6 +366,30 @@
                 }
                 
             ]
+        },
+        {
+            "title": "Power Bank",
+            "product_price": "US $36.04",
+            "eStore": "Ali Express",
+            "short_description": "Power Bank 10000mAh Quick Charge 3.0 For Xiaomi Powerbank 10000 mAh",
+            "long_description": "Power Bank 10000mAh Quick Charge 3.0 For Xiaomi Powerbank 10000 mAh",
+            "affiliate_link": "http://ali.pub/519mb2",
+            "product_rating": "4.9",
+            "image_link":[
+                {
+                   "image": "https://ae01.alicdn.com/kf/H3448962ea76e403da53c8f04f8d16937F/FLOVEME-QC3-0-Power-Bank-10000mAh-Quick-Charge-3-0-For-Xiaomi-Powerbank-10000-mAh-PD.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H486e283019e046a2bf52915848e29fa7c/FLOVEME-QC3-0-Power-Bank-10000mAh-Quick-Charge-3-0-For-Xiaomi-Powerbank-10000-mAh-PD.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H8c1f3c90dd4d4507b29cc97a514e3bf0O/FLOVEME-QC3-0-Power-Bank-10000mAh-Quick-Charge-3-0-For-Xiaomi-Powerbank-10000-mAh-PD.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/Hfc9cb85bb76c450688988b4f4271f1d1K/FLOVEME-QC3-0-Power-Bank-10000mAh-Quick-Charge-3-0-For-Xiaomi-Powerbank-10000-mAh-PD.jpg_50x50.jpg"
+                }
+                
+            ]
         }
         
         
