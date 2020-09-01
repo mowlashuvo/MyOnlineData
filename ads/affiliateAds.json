@@ -554,6 +554,72 @@
                 }
                 
             ]
+        },
+        {
+            "title": "Electric Shaver",
+            "product_price": "US $79.98",
+            "sale_percent": "50",
+            "eStore": "Ali Express",
+            "short_description": "Kemei 5 in 1 Multifunction Hair Clipper Waterproof LCD Professional Hair Trimmer Electric Shaver Beard Trimmer",
+            "long_description": "Kemei 5 in 1 Multifunction Hair Clipper Waterproof LCD Professional Hair Trimmer Electric Shaver Beard Trimmer",
+            "affiliate_link": "http://ali.pub/529ncd",
+            "product_rating": "5",
+            "image_link":[
+                {
+                   "image": "https://ae01.alicdn.com/kf/H8e1df0fb2c8547d297a42535c2b32f72u/Kemei-5-in-1-Multifunction-Hair-Clipper-Waterproof-LCD-Professional-Hair-Trimmer-Electric-Shaver-Beard-Trimmer.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H4e53deade0614eefa8d059d09dda3bb12/Kemei-5-in-1-Multifunction-Hair-Clipper-Waterproof-LCD-Professional-Hair-Trimmer-Electric-Shaver-Beard-Trimmer.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H0538423ced014e6b8b2b71333180f1286/Kemei-5-in-1-Multifunction-Hair-Clipper-Waterproof-LCD-Professional-Hair-Trimmer-Electric-Shaver-Beard-Trimmer.jpg_50x50.jpg"
+                }
+                
+            ]
+        },
+        {
+            "title": "Electric Shaver",
+            "product_price": "US $17.50",
+            "sale_percent": "24",
+            "eStore": "Ali Express",
+            "short_description": "SDETER 1080P 720P IP Camera Security Camera WiFi Wireless CCTV Camera Surveillance IR Night Vision P2P",
+            "long_description": "SDETER 1080P 720P IP Camera Security Camera WiFi Wireless CCTV Camera Surveillance IR Night Vision P2P",
+            "affiliate_link": "http://ali.pub/529r07",
+            "product_rating": "4.9",
+            "image_link":[
+                {
+                   "image": "https://ae01.alicdn.com/kf/Hc2994cbd64d4484fbde131dfc19dde68W/SDETER-1080P-720P-IP-Camera-Security-Camera-WiFi-Wireless-CCTV-Camera-Surveillance-IR-Night-Vision-P2P.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/HTB1zfriaxD1gK0jSZFyq6AiOVXaD/SDETER-1080P-720P-IP-Camera-Security-Camera-WiFi-Wireless-CCTV-Camera-Surveillance-IR-Night-Vision-P2P.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H9ee0bc774283460da07efa05a6ad9b430/SDETER-1080P-720P-IP-Camera-Security-Camera-WiFi-Wireless-CCTV-Camera-Surveillance-IR-Night-Vision-P2P.jpg_50x50.jpg"
+                }
+                
+            ]
+        },
+        {
+            "title": "Power Bank",
+            "product_price": "US $18.98",
+            "sale_percent": "35",
+            "eStore": "Ali Express",
+            "short_description": "FLOVEME Power Bank 10000mAh Portable Phone External Battery Charger Dual USB Charging Powerbank",
+            "long_description": "FLOVEME Power Bank 10000mAh Portable Phone External Battery Charger Dual USB Charging Powerbank",
+            "affiliate_link": "http://ali.pub/529r07",
+            "product_rating": "5",
+            "image_link":[
+                {
+                   "image": "https://ae01.alicdn.com/kf/H1c7e7208f9c843fa9c1507b7fdb19516p/FLOVEME-Power-Bank-10000mAh-Portable-Phone-External-Battery-Charger-Dual-USB-Charging-Powerbank-for-iPhone-Xiaomi.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/H65cd3432583f46008fd7ded3c7f0cdf23/FLOVEME-Power-Bank-10000mAh-Portable-Phone-External-Battery-Charger-Dual-USB-Charging-Powerbank-for-iPhone-Xiaomi.jpg_50x50.jpg"
+                },
+                {
+                   "image": "https://ae01.alicdn.com/kf/Hd11a569cf1ab41a9821e6be05850e0b0Z/FLOVEME-Power-Bank-10000mAh-Portable-Phone-External-Battery-Charger-Dual-USB-Charging-Powerbank-for-iPhone-Xiaomi.jpg_50x50.jpg"
+                }
+                
+            ]
         }
         
         
