@@ -1,0 +1,23 @@
+[
+    {
+    "country":"Russia-3",
+    "flag_url":"https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "ovpn": "Russia-3_freeopenvpn_tcp.ovpn",
+    "user_name": "freeopenvpn",
+    "password": "425024187"
+  },
+   {
+    "country":"us",
+    "flag_url":"ddasdadasd",
+    "ovpn": "sfsf",
+    "user_name": "sdsd",
+    "password": "123434"
+  },
+   {
+    "country":"us",
+    "flag_url":"ddasdadasd",
+    "ovpn": "sfsf",
+    "user_name": "sdsd",
+    "password": "123434"
+  }
+  ]
